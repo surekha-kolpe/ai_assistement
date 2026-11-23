@@ -1,0 +1,18 @@
+BANK KYC POLICY
+
+KYC stands for Know Your Customer.
+
+Banks must verify the identity and address of customers
+before opening accounts.
+
+Common KYC documents include:
+1. PAN Card
+2. Aadhaar Card
+3. Passport
+4. Voter ID
+5. Driving License
+
+Customer identity verification must follow the bank's
+approved procedures and applicable regulations.
+
+Banks must maintain updated customer information.
